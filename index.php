@@ -1,6 +1,6 @@
 <?php
 
 
-echo "Maaf Zahir dan batin"
-trait_exists
+echo "Maaf Zahir dan batin";
+
 ?>
